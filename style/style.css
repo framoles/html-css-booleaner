@@ -19,6 +19,7 @@ header div img{
 main h1{
     margin-bottom: 3px;
 }
+
 .container{
     width: 60%;
     margin: auto;
@@ -94,7 +95,6 @@ thead tr{
 
 ul {
     list-style-position: inside;
-    width: 33%;
     margin: 30px 0;
     padding: 0;
    }
