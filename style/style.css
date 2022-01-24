@@ -54,10 +54,10 @@ main img{
 
 table{
     border-collapse: collapse;
-    text-align: center;
 }
 
 thead tr{
+    text-align: left;
     color: white;
     background-color: lightseagreen;
 }
