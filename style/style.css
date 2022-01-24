@@ -1,0 +1,101 @@
+.logo{
+    background-image: url(../img/pattern.png);
+    height: 7vh;
+    background-color: #156479;
+    background-size: contain;
+    position: relative;
+    
+}
+
+header div img{
+    width: 15%;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 5px;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+}
+
+main h1{
+    margin-bottom: -3px;
+}
+
+a{
+    text-decoration: none;
+}
+
+main img{
+    margin-top: 15px;
+}
+
+#foto-tim{
+    width: calc(100% / 2 - 5px);
+    height: 400px;
+}
+
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead tr{
+    background-color: lightseagreen;
+}
+
+#row-color{
+    background-color: lightskyblue;
+}
+
+.image.one{
+    background-image: url(../img/graph.jpg);
+}
+
+.image.two{
+    background-image: url(../img/monitor.jpg);
+}
+
+.image{
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.info{
+    color: white;
+    font-size: 20px;
+}   
+
+#th-short{
+    width: 25%;
+}
+
+#th-large{
+    width: 50%;
+}
+
+ul {
+    list-style-position: inside;
+    width: 33%;
+    margin: 30px 0;
+    padding: 0;
+   }
+
+
+.info-foto{
+       font-size: 10px;
+   }
+
+.evidenziato{
+       background-color: yellow;
+   }
+
+.interest{
+    color: rgb(167, 163, 163);
+    font-size: 20px;
+}
