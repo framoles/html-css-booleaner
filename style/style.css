@@ -16,24 +16,36 @@ header div img{
     margin: 5px;
 }
 
+main h1{
+    margin-bottom: 3px;
+}
 .container{
     width: 60%;
     margin: auto;
 }
 
-main h1{
-    margin-bottom: -3px;
-}
-
 a{
     text-decoration: none;
+    color: lightskyblue;
+}
+
+#write-by{
+    font-size: 15px;
+    color: grey;
+    font-family: sans-serif;
+}
+
+#date{
+    font-size: 11px;
+    color: grey;
+    font-family: sans-serif;
 }
 
 main img{
     margin-top: 15px;
 }
 
-#foto-tim{
+.foto-tim{
     width: calc(100% / 2 - 5px);
     height: 400px;
 }
@@ -45,10 +57,11 @@ table{
 }
 
 thead tr{
+    color: white;
     background-color: lightseagreen;
 }
 
-#row-color{
+.row-color{
     background-color: lightskyblue;
 }
 
@@ -71,7 +84,7 @@ thead tr{
     font-size: 20px;
 }   
 
-#th-short{
+.th-short{
     width: 25%;
 }
 
